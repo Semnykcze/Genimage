@@ -1,0 +1,6 @@
+{
+  "name": "Imagen4 Image Generator",
+  "description": "A web application to generate images from text prompts using Google's Imagen4 model via the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
